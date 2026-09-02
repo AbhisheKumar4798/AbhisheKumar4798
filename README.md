@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Abhishek Kumar 👋
 
-<!--
-**AbhisheKumar4798/AbhisheKumar4798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA (AI) Student | Future AI & Software Developer
 
-Here are some ideas to get you started:
+🎓 First Year BCA (Artificial Intelligence)
+📍 Jaipur, India
+🌱 Currently learning Python, C, SQL & AI Basics
+🎯 Goal (2026): Build AI projects and get my first internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 2026 Goals
+- ✅ Learn C Programming
+- ✅ Master Python Basics
+- ✅ Learn MySQL & DBMS
+- 🔄 Start AI/ML with NumPy & Pandas
+- 🔄 Build 5 Beginner Projects
+- 🔄 Upload every project on GitHub
+
+---
+
+## 💻 Tech Stack
+- C
+- Python
+- SQL (MySQL)
+- Git & GitHub
+- HTML & CSS (Basics)
+
+---
+
+## 📂 Projects This Year
+- Calculator (Python)
+- Student Management System
+- To-Do App
+- AI Chatbot (Beginner)
+- Mini AI Project
+
+---
+
+## 📈 Learning Every Day
+"Code. Learn. Build. Repeat."
