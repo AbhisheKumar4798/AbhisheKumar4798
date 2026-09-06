@@ -1,27 +1,60 @@
-Abhishek Kumar
+ABHISHEK KUMAR
 
-Artificial Intelligence • Machine Learning • Full Stack Engineering
+AI • ML • FULL STACK ENGINEER
 
-«Engineering intelligent software with precision, scalability, and purpose.»
-
----
-
-Focus Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Web Engineering
-- Backend Systems & API Architecture
-- Database Design & Optimization
-
-Technology Stack
-
-"C" "Python" "JavaScript" "React" "Node.js" "Express.js" "MySQL" "Git" "GitHub"
-
-Engineering Philosophy
-
-Building intelligent, scalable, and secure software through clean architecture, efficient backend systems, and modern development practices.
+«Architecting Intelligent Systems. Engineering Scalable Software. Defining the Next Generation of Digital Experiences.»
 
 ---
 
-«Intelligence engineered. Software refined.»
+ENGINEERING DOMAINS
+
+ARTIFICIAL INTELLIGENCE
+Intelligent Systems • Automation • Data-Driven Solutions
+
+MACHINE LEARNING
+Predictive Models • Pattern Recognition • Model Development
+
+FULL STACK ENGINEERING
+Modern Frontend • Scalable Backend • API Architecture
+
+DATABASE SYSTEMS
+SQL • MySQL • Data Modeling • Performance Optimization
+
+---
+
+TECHNOLOGY ECOSYSTEM
+
+<table>
+  <tr>
+    <td><strong>CORE LANGUAGES</strong></td>
+    <td>C • Python • JavaScript • SQL</td>
+  </tr>
+  <tr>
+    <td><strong>FRONTEND</strong></td>
+    <td>HTML5 • CSS3 • React.js</td>
+  </tr>
+  <tr>
+    <td><strong>BACKEND</strong></td>
+    <td>Node.js • Express.js</td>
+  </tr>
+  <tr>
+    <td><strong>DATABASE</strong></td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>DEVELOPER TOOLKIT</strong></td>
+    <td>Git • GitHub • VS Code</td>
+  </tr>
+</table>---
+
+ENGINEERING PRINCIPLES
+
+Scalable Architecture • Clean Code • Secure Systems • Performance Optimization • Continuous Innovation
+
+---
+
+<div align="center">INTELLIGENCE FIRST. ENGINEERING ALWAYS.
+
+Building technology that is designed to think, built to scale, and crafted to last.
+
+</div>
